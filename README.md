@@ -1,7 +1,7 @@
 # Platform Survival Game
 
 <p align="center">
-  <img src="imagen2.png" width="20%">
+
   <img src="imagen1.png" width="20%">
   <img src="imagen3.png" width="20%">
 </p>
