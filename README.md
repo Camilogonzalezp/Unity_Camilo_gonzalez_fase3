@@ -1,6 +1,10 @@
 # Platform Survival Game
 
-![Gameplay](image.png)
+<p align="center">
+  <img src="imagen2.png" width="30%">
+  <img src="imagen1.png" width="30%">
+  <img src="image.png" width="30%">
+</p>
 
 This project is a Unity-based mini-game inspired by the Book Squirm minigame from Mario Party 4 In that original concept, players must run across the pages of a book while they continuously close, forcing them to pass through specific shapes or gaps to avoid being crushed.
 
