@@ -3,7 +3,7 @@
 <p align="center">
   <img src="imagen2.png" width="20%">
   <img src="imagen1.png" width="20%">
-  <img src="image.png" width="20%">
+  <img src="imagen3.png" width="20%">
 </p>
 
 This project is a Unity-based mini-game inspired by the Book Squirm minigame from Mario Party 4 In that original concept, players must run across the pages of a book while they continuously close, forcing them to pass through specific shapes or gaps to avoid being crushed.
